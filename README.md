@@ -6,6 +6,9 @@ At the start, each player (one controlling the white pieces, the other controlli
 two rooks, two bishops, two knights, and eight pawns. The object of the game is to checkmate the opponent's king, whereby the king is under immediate 
 attack (in "check") and there is no way for it to escape.
 
+## Preview
+![Preview](/GreenfootChess/images/preview.png)
+
 ## How To Run
 1. Download [Greenfoot](https://www.greenfoot.org/download)
 2. Download [Chess.gfar](/Chess.gfar) and open it
