@@ -7,7 +7,7 @@ two rooks, two bishops, two knights, and eight pawns. The object of the game is 
 attack (in "check") and there is no way for it to escape.
 
 ## Preview
-![Preview](/GreenfootChess/images/preview.png)
+![Preview](/images/preview.png)
 
 ## How To Run
 1. Download [Greenfoot](https://www.greenfoot.org/download)
